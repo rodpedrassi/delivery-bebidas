@@ -1,2 +1,2 @@
 # :construction: README em construção ! :construction:
-cliente: zebirita@email.com $#zebirita#$
+usuário: zebirita@email.com senha: "$#zebirita#$"
