@@ -20,13 +20,15 @@
 
 <details>
   
-</details>
-
   <summary>
     <strong>Diagrama entidade de relacionamento</strong>
   </summary><br>
   
    ![Diagrama de ER](./assets/readme/der.png)
+  
+</details>
+
+
 
 <details>
   
