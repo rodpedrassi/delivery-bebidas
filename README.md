@@ -6,12 +6,12 @@
   </summary><br>
   
   **Trata-se do Projeto final integrador: Desenvolvimento de Sistemas feito para a Universidade de Santo Amaro (UNISA)**
-  
+
   Integrantes:
-  - Rodrigo Pedrassi
-  - Fernando Domingos
-  - Calió
-  - Lucimar
+  - FERNANDO DOMINGOS BEZERRA
+  - MARCOS ANTÔNIO CALIÓ FILHO
+  - LUCIMAR ALMEIDA DA SILVA
+  - RODRIGO PEDRASSI ALVES
     
   **Neste projeto, nosso grupo desenvolveu um app de delivery para uma distribuidora de bebidas.**
 
