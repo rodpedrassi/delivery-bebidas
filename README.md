@@ -21,6 +21,26 @@
 <details>
   
   <summary>
+    <strong>Algumas das tecnologias utilizadas</strong>
+  </summary><br>
+  
+  - Frontend
+      - React
+      - Html
+      - CSS
+  - Backend
+      - Nodejs
+      - Javascript
+      - Express
+      - MySQL
+      - Sequelize
+  
+</details>
+
+
+<details>
+  
+  <summary>
     <strong>Diagrama entidade de relacionamento</strong>
   </summary><br>
   
