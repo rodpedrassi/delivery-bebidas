@@ -1,9 +1,18 @@
 # Boas vindas ao repositório do projeto Delivery de Bebidas!
 <details>
+  
   <summary>
     <strong>Do que se trata?</strong>
   </summary><br>
-
+  
+  **Trata-se do Projeto final integrador: Desenvolvimento de Sistemas feito para a Universidade de Santo Amaro (UNISA)**
+  
+  Integrantes:
+  - Rodrigo Pedrassi
+  - Fernando Domingos
+  - Calió
+  - Lucimar
+    
   **Neste projeto, nosso grupo desenvolveu um app de delivery para uma distribuidora de bebidas.**
 
   A distribuidora de cervejas da dona Tereza está se informatizando! Seu negócio, antes focado em um local específico da cidade, passou a receber uma quantidade massiva de encomendas de outros pontos, expandindo sua atuação via delivery. Isso tudo graças ao excelente preço das bebidas e atendimento da equipe de vendas.
