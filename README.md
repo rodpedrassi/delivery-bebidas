@@ -83,7 +83,7 @@
   <strong> 1. Existe um arquivo chamado 🐳 <code>docker-compose.yml</code></strong> capaz de subir um container MySQL dispensando a instalação do mesmo. Rode o comando <code>docker-compose up -d</code>. Caso tenha MySQL instalado cheque o arquivo em <code>back-end/src/database/config/config.js</code> para a configuração das váriaveis de ambiente </strong> <br> 
     
   <strong> 2. É nessário ter instalado o Nodejs em uma versão igual ou superior ao 16</strong><br><br>
-  <strong> 3. Também se faz nessário o gerenciador de pacotes do Nodejs NPM (Node Packege Manager)</strong><br>
+  <strong> 3. Também se faz nessário o gerenciador de pacotes do Nodejs NPM (Node Package Manager)</strong><br>
   
 </details>
 
